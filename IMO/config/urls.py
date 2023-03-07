@@ -21,3 +21,4 @@ urlpatterns = [
     path("", include('main.urls')),
     path('common/', include('common.urls')),
 ]
+
